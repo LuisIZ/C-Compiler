@@ -1,0 +1,3 @@
+C:/Users/Luis/OneDrive/Desktop/COMPI/C-Compiler/cmake-build-debug/CMakeFiles/C_Compiler.dir
+C:/Users/Luis/OneDrive/Desktop/COMPI/C-Compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Luis/OneDrive/Desktop/COMPI/C-Compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
