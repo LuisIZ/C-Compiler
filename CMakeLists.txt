@@ -3,4 +3,4 @@ project(C_Compiler)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(C_Compiler main.cpp)
+add_executable(C_Compiler lexical_and_syntactic_analyzer.cpp)
